@@ -35,7 +35,7 @@ where $\alpha = \frac{k}{\rho c}$ is the thermal diffusivity, $k$ is the thermal
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/uneclipse/paragon-heat-transfer.git
+git clone https://github.com/kilian-scheidecker/spherical-heat-transfer
 cd paragon-heat-transfer
 ```
 
